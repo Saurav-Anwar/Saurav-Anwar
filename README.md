@@ -70,9 +70,12 @@ I’ve worked on exciting projects from health tech to real-time delivery apps a
   <img src="https://streak-stats.demolab.com/?user=Saurav-Anwar&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Anwar&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saurav-Anwar&rank=-?&theme=nord&column=4&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
